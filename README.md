@@ -1,4 +1,4 @@
-Autenticacion con spring boot:
+Autenticacion con spring boot
 Tecnologias:
 - Spring boot 3
 - Spring Security 6
