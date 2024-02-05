@@ -1,5 +1,10 @@
-Autenticacion con spring security 6 y JWT
-Base de Datos: MySQL
+Autenticacion con spring boot:
+Tecnologias:
+- Spring boot 3
+- Spring Security 6
+- JWT
+- MySQl
+- Maven
 
 Endpoints:
 
